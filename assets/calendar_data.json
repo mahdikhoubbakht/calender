@@ -1251,16 +1251,172 @@
         "date": "1405-08-01",
         "events": [
             {
-                "description": "روز آمار و برنامه ریزی",
-                "is_holiday": false
-            },
-            {
-                "description": "روز بزرگداشت ابوالفضل بیهقی، تاریخ‌نگار و نویسنده ایرانی",
+                "description": "بزرگداشت ابوالفضل بیهقی - روز آمار و برنامه ریزی - روز صنعت ساختمان",
                 "is_holiday": false
             }
         ],
         "is_holiday": false
     },
+    {
+        "date": "1405-08-02",
+        "events": [
+            {
+                "description": "شهادت حضرت فاطمه زهرا (س) به روایتی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-04",
+        "events": [
+            {
+                "description": "اعتراض امام خمینی علیه پذیرش کاپیتولاسیون",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-05",
+        "events": [
+            {
+                "description": "روز زعفران",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-07",
+        "events": [
+            {
+                "description": "روز انار",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-08",
+        "events": [
+            {
+                "description": "شهادت محمد حسین فهمیده (بسیجی ۱۳ ساله) - روز نوجوان و بسیج دانش آموزی - روز پدافند غیرعامل - روز محیط بان",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-10",
+        "events": [
+            {
+                "description": "شهادت آیت الله قاضی طباطبایی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-13",
+        "events": [
+            {
+                "description": "تسخیر سفارت آمریکا - روز ملی مبارزه با استکبار جهانی - روز دانش آموز",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-14",
+        "events": [
+            {
+                "description": "تبعید امام خمینی از ایران به ترکیه - روز فرهنگ عمومی - روز مازندران",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-18",
+        "events": [
+            {
+                "description": "روز کیفیت",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-19",
+        "events": [
+            {
+                "description": "روز جهانی علم در خدمت صلح و توسعه",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-21",
+        "events": [
+            {
+                "description": "روز هواقضا",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-22",
+        "events": [
+            {
+                "description": "شهادت حضرت فاطمه زهرا (س) «تعطیل»",
+                "is_holiday": true
+            }
+        ],
+        "is_holiday": true
+    },
+    {
+        "date": "1405-08-24",
+        "events": [
+            {
+                "description": "روز کتاب، کتابخوانی و کتابدار - بزرگداشت آیت الله سید محمد حسین طباطبایی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-25",
+        "events": [
+            {
+                "description": "روز صنعت نفت - روز اصفهان",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-26",
+        "events": [
+            {
+                "description": "سالروز آزادسازی سوسنگرد",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-08-30",
+        "events": [
+            {
+                "description": "روز حکمت و فلسفه - بزرگداشت ابونصر فارابی - روز قهرمان ملی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    }, 
     {
         "date": "1405-08-07",
         "events": [
@@ -1365,11 +1521,21 @@
         ],
         "is_holiday": false
     },
-    {
+ {
         "date": "1405-09-01",
         "events": [
             {
-                "description": "آذر جشن",
+                "description": "روز صنعت سرب و روی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-09-02",
+        "events": [
+            {
+                "description": "سالروز وفات حضرت ام‌البنین (س) - روز تکریم مادران و همسران شهدا",
                 "is_holiday": false
             }
         ],
@@ -1379,7 +1545,7 @@
         "date": "1405-09-04",
         "events": [
             {
-                "description": "روز جهانی مبارزه با خشونت علیه زنان [ 25 November ]",
+                "description": "روز زیتون",
                 "is_holiday": false
             }
         ],
@@ -1389,7 +1555,7 @@
         "date": "1405-09-05",
         "events": [
             {
-                "description": "روز بسیج مستضعفان",
+                "description": "روز بسیج مستضعفان - سالروز قیام مردم گرگان",
                 "is_holiday": false
             }
         ],
@@ -1399,7 +1565,7 @@
         "date": "1405-09-07",
         "events": [
             {
-                "description": "سالروز عملیات مروارید و روز نیروی دریایی",
+                "description": "روز نیروی دریایی - سالروز ناوبری و فناوری ایران ساخت",
                 "is_holiday": false
             }
         ],
@@ -1409,7 +1575,7 @@
         "date": "1405-09-09",
         "events": [
             {
-                "description": "جشن آذرگان ،آذر روز",
+                "description": "ولادت حضرت فاطمه زهرا (س) - روز زن - بزرگداشت شیخ مفید - روز جزایر سه گانه خلیج فارس (بوموسی، تنب بزرگ و تنب کوچک)",
                 "is_holiday": false
             }
         ],
@@ -1419,11 +1585,17 @@
         "date": "1405-09-10",
         "events": [
             {
-                "description": "ولادت حضرت فاطمه زهرا سلام الله علیها و روز مادر [ ٢٠ جمادي الثانيه ]",
+                "description": "شهادت آیت‌الله سید حسن مدرس - روز مجلس - روز جهانی مبارزه با ایدز",
                 "is_holiday": false
-            },
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-09-11",
+        "events": [
             {
-                "description": "روز جهانی ایدز [ 1 December ]",
+                "description": "شهادت میرزا کوچک خان جنگلی",
                 "is_holiday": false
             }
         ],
@@ -1433,7 +1605,7 @@
         "date": "1405-09-12",
         "events": [
             {
-                "description": "روز جهانی معلولان [ 3 December ]",
+                "description": "روز قانون اساسی جمهوری اسلامی ایران - روز جهانی معلولین",
                 "is_holiday": false
             }
         ],
@@ -1463,7 +1635,17 @@
         "date": "1405-09-16",
         "events": [
             {
-                "description": "روز دانشجو",
+                "description": "روز دانشجو - روز جهانی هواپیمایی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-09-18",
+        "events": [
+            {
+                "description": "روز سد و نیروگاه برق آبی",
                 "is_holiday": false
             }
         ],
@@ -1473,7 +1655,7 @@
         "date": "1405-09-19",
         "events": [
             {
-                "description": "روز جهانی حقوق بشر [ 10 December ]",
+                "description": "تشکیل شورای عالی انقلاب فرهنگی",
                 "is_holiday": false
             }
         ],
@@ -1483,21 +1665,7 @@
         "date": "1405-09-20",
         "events": [
             {
-                "description": "ولادت امام محمد باقر علیه السلام [ ١ رجب ]",
-                "is_holiday": false
-            },
-            {
-                "description": "روز جهانی کوهستان [ 11 December ]",
-                "is_holiday": false
-            }
-        ],
-        "is_holiday": false
-    },
-    {
-        "date": "1405-09-21",
-        "events": [
-            {
-                "description": "سالروز نجات آذربایجان",
+                "description": "ولادت امام محمد باقر (ع)",
                 "is_holiday": false
             }
         ],
@@ -1507,7 +1675,7 @@
         "date": "1405-09-22",
         "events": [
             {
-                "description": "شهادت امام علی النقی الهادی علیه السلام [ ٣ رجب ]",
+                "description": "شهادت امام علی النقی الهادی (ع) - روز صنعت مس",
                 "is_holiday": false
             }
         ],
@@ -1517,7 +1685,27 @@
         "date": "1405-09-25",
         "events": [
             {
-                "description": "روز پژوهش و فنآوری",
+                "description": "روز پژوهش",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-09-26",
+        "events": [
+            {
+                "description": "روز حمل و نقل و رانندگان",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-09-27",
+        "events": [
+            {
+                "description": "شهادت آیت الله دکتر محمد مفتح - روز وحدت حوزه و دانشگاه - روز جهان عاری از خشونت و افراط‌گرایی",
                 "is_holiday": false
             }
         ],
@@ -1527,7 +1715,7 @@
         "date": "1405-09-29",
         "events": [
             {
-                "description": "ولادت امام محمد تقی علیه السلام [ ١٠ رجب ]",
+                "description": "ولادت امام محمد تقی (ع) - تجلیل از شهید تندگویان",
                 "is_holiday": false
             }
         ],
@@ -1537,45 +1725,47 @@
         "date": "1405-09-30",
         "events": [
             {
-                "description": "جشن شب یلدا، شب چلّه",
+                "description": "شب یلدا - روز ترویج فرهنگ مهمانی و پیوند با خویشان",
                 "is_holiday": false
             }
         ],
         "is_holiday": false
     },
-    {
+ {
         "date": "1405-10-01",
         "events": [
             {
-                "description": "روز میلاد خورشید؛ جشن خرم روز، نخستین جشن دیگان",
-                "is_holiday": false
-            }
-        ],
-        "is_holiday": false
-    },
-    {
-        "date": "1405-10-02",
-        "events": [
-            {
-                "description": "ولادت امام علی علیه السلام و روز پدر [ ١٣ رجب ]",
+                "description": "روز آزادسازی - ولادت امام علی (ع) - روز پدر «تعطیل» - آغاز ایام البیض (اعتکاف)",
                 "is_holiday": true
             }
         ],
         "is_holiday": true
     },
     {
+        "date": "1405-10-02",
+        "events": [
+            {
+                "description": "روز ثبت احوال",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-10-03",
+        "events": [
+            {
+                "description": "وفات حضرت زینب (س) - بزرگداشت رودکی - ولادت حضرت عیسی مسیح (ع)",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
         "date": "1405-10-04",
         "events": [
             {
-                "description": "وفات حضرت زینب سلام الله علیها [ ١٥ رجب ]",
-                "is_holiday": false
-            },
-            {
-                "description": "جشن کریسمس [ 25 December ]",
-                "is_holiday": false
-            },
-            {
-                "description": "روز بزرگداشت دوستی [ 25 December ]",
+                "description": "روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی",
                 "is_holiday": false
             }
         ],
@@ -1585,15 +1775,17 @@
         "date": "1405-10-05",
         "events": [
             {
-                "description": "زمین لرزه ی بم [1382 خورشیدی]",
+                "description": "روز دفاتر اسناد رسمی",
                 "is_holiday": false
-            },
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-10-07",
+        "events": [
             {
-                "description": "سالروز شهادت اَشو زرتشت، اَبَراِنسان بزرگ تاریخ",
-                "is_holiday": false
-            },
-            {
-                "description": "سالروز عملیات کربلای 4 [1365 خورشیدی]",
+                "description": "تشکیل نهضت سواد آموزی",
                 "is_holiday": false
             }
         ],
@@ -1603,11 +1795,7 @@
         "date": "1405-10-08",
         "events": [
             {
-                "description": "دی به آذر روز، دومین جشن دیگان",
-                "is_holiday": false
-            },
-            {
-                "description": "روز بزرگداشت یعقوب لیث صفاری (رادمان پورماهک) نخستین پادشاه ایرانی پس از اسلام",
+                "description": "روز صنعت پتروشیمی - روز صنعت سیمان",
                 "is_holiday": false
             }
         ],
@@ -1617,7 +1805,7 @@
         "date": "1405-10-09",
         "events": [
             {
-                "description": "اعدام میهن‌پرستان آذری در تبریز توسط قوای اشغالگر روس [1290 خورشیدی]",
+                "description": "روز بصیرت",
                 "is_holiday": false
             }
         ],
@@ -1627,7 +1815,17 @@
         "date": "1405-10-11",
         "events": [
             {
-                "description": "جشن آغاز سال نو میلادی [ 1 January ]",
+                "description": "آغاز سال ۲۰۲۷ میلادی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-10-12",
+        "events": [
+            {
+                "description": "روز علوم انسانی اسلامی",
                 "is_holiday": false
             }
         ],
@@ -1637,7 +1835,7 @@
         "date": "1405-10-13",
         "events": [
             {
-                "description": "شهادت سردار حاج قاسم سلیمانی [1398 خورشیدی]",
+                "description": "روز جهانی مقاومت - شهادت سردار سپهبد قاسم سلیمانی",
                 "is_holiday": false
             }
         ],
@@ -1647,17 +1845,7 @@
         "date": "1405-10-14",
         "events": [
             {
-                "description": "شهادت امام موسی کاظم علیه السلام [ ٢٥ رجب ]",
-                "is_holiday": false
-            }
-        ],
-        "is_holiday": false
-    },
-    {
-        "date": "1405-10-15",
-        "events": [
-            {
-                "description": "دی به مهر روز، سومین جشن دیگان",
+                "description": "شهادت امام موسی کاظم (ع)",
                 "is_holiday": false
             }
         ],
@@ -1667,21 +1855,17 @@
         "date": "1405-10-16",
         "events": [
             {
-                "description": "مبعث رسول اکرم (ص) [ ٢٧ رجب ]",
+                "description": "مبعث حضرت رسول اکرم (ص) «تعطیل» - روز شهدای دانشجو",
                 "is_holiday": true
-            },
-            {
-                "description": "غرق شدن کشتی سانچی [1396 خورشیدی]",
-                "is_holiday": false
             }
         ],
         "is_holiday": true
     },
     {
-        "date": "1405-10-18",
+        "date": "1405-10-17",
         "events": [
             {
-                "description": "شلیک به پرواز 752 هواپیمایی اوکراین [1398 خورشیدی]",
+                "description": "بزرگداشت خواجوی کرمانی - روز کرمان",
                 "is_holiday": false
             }
         ],
@@ -1691,7 +1875,7 @@
         "date": "1405-10-19",
         "events": [
             {
-                "description": "درگذشت اکبر هاشمی رفسنجانی [1395 خورشیدی]",
+                "description": "قیام خونین مردم قم",
                 "is_holiday": false
             }
         ],
@@ -1701,7 +1885,7 @@
         "date": "1405-10-20",
         "events": [
             {
-                "description": "قتل امیرکبیر به دستور ناصرالدین شاه قاجار [1230 خورشیدی]",
+                "description": "شهادت میرزا تقی خان امیرکبیر - روز قناد، صنعت شیرینی و شکلات",
                 "is_holiday": false
             }
         ],
@@ -1711,7 +1895,7 @@
         "date": "1405-10-22",
         "events": [
             {
-                "description": "ولادت سالار شهیدان، امام حسین علیه السلام و روز پاسدار [ ٣ شعبان ]",
+                "description": "ولادت امام حسین (ع) - روز پاسدار - تشکیل شورای انقلاب",
                 "is_holiday": false
             }
         ],
@@ -1721,11 +1905,7 @@
         "date": "1405-10-23",
         "events": [
             {
-                "description": "دی به دین روز، چهارمین جشن دیگان",
-                "is_holiday": false
-            },
-            {
-                "description": "ولادت ابوالفضل العباس علیه السلام و روز جانباز [ ٤ شعبان ]",
+                "description": "ولادت حضرت ابوالفضل العباس (ع) - روز جانباز",
                 "is_holiday": false
             }
         ],
@@ -1735,7 +1915,27 @@
         "date": "1405-10-24",
         "events": [
             {
-                "description": "ولادت امام زین العابدین علیه السلام [ ٥ شعبان ]",
+                "description": "ولادت امام زین العابدین (ع) - روز صحیفه سجادیه",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-10-27",
+        "events": [
+            {
+                "description": "شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-10-29",
+        "events": [
+            {
+                "description": "روز معاینات فنی خودرو",
                 "is_holiday": false
             }
         ],
@@ -1745,31 +1945,17 @@
         "date": "1405-10-30",
         "events": [
             {
-                "description": "ولادت علی اکبر علیه السلام و روز جوان [ ١١ شعبان ]",
-                "is_holiday": false
-            },
-            {
-                "description": "آتش‌سوزی و فروریختن ساختمان پلاسکو [1395 خورشیدی]",
+                "description": "ولادت حضرت علی اکبر (ع) - روز جوان",
                 "is_holiday": false
             }
         ],
         "is_holiday": false
     },
-    {
+ {
         "date": "1405-11-01",
         "events": [
             {
-                "description": "زادروز فردوسی",
-                "is_holiday": false
-            }
-        ],
-        "is_holiday": false
-    },
-    {
-        "date": "1405-11-02",
-        "events": [
-            {
-                "description": "بهمن روز، جشن بهمنگان",
+                "description": "روز بزرگداشت خاقانی شروانی",
                 "is_holiday": false
             }
         ],
@@ -1779,37 +1965,27 @@
         "date": "1405-11-04",
         "events": [
             {
-                "description": "ولادت حضرت قائم عجل الله تعالی فرجه و جشن نیمه شعبان [ ١٥ شعبان ]",
+                "description": "ولادت حضرت قائم عجل الله تعالی فرجه «تعطیل» - روز جهانی مستضعفان - روز سربازان گمنام",
                 "is_holiday": true
             }
         ],
         "is_holiday": true
     },
     {
-        "date": "1405-11-05",
-        "events": [
-            {
-                "description": "جشن نوسره",
-                "is_holiday": false
-            }
-        ],
-        "is_holiday": false
-    },
-    {
         "date": "1405-11-06",
         "events": [
             {
-                "description": "بزرگداشت صفی‌الدین اُرمَوی و روز موسیقی ایرانی",
+                "description": "سالروز حماسه مردم آمل - روز آواها و نواهای ایرانی - بزرگداشت صفی‌الدین ارموی - روز جهانی",
                 "is_holiday": false
             }
         ],
         "is_holiday": false
     },
     {
-        "date": "1405-11-10",
+        "date": "1405-11-11",
         "events": [
             {
-                "description": "جشن سده، گرامیداشتِ کشف آتش به دستِ هوشنگ شاه",
+                "description": "روز ویراستار",
                 "is_holiday": false
             }
         ],
@@ -1819,17 +1995,17 @@
         "date": "1405-11-12",
         "events": [
             {
-                "description": "بازگشت امام خمینی (ره) به ایران",
+                "description": "بازگشت امام خمینی به ایران - آغاز دهه فجر انقلاب اسلامی",
                 "is_holiday": false
             }
         ],
         "is_holiday": false
     },
     {
-        "date": "1405-11-15",
+        "date": "1405-11-14",
         "events": [
             {
-                "description": "جشن میانه زمستان",
+                "description": "روز فناوری فضایی",
                 "is_holiday": false
             }
         ],
@@ -1846,24 +2022,40 @@
         "is_holiday": false
     },
     {
+        "date": "1405-11-20",
+        "events": [
+            {
+                "description": "روز چهارمحال و بختیاری",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
+        "date": "1405-11-21",
+        "events": [
+            {
+                "description": "شکسته شدن حکومت نظامی به فرمان امام خمینی",
+                "is_holiday": false
+            }
+        ],
+        "is_holiday": false
+    },
+    {
         "date": "1405-11-22",
         "events": [
             {
-                "description": "پیروزی انقلاب اسلامی",
+                "description": "پیروزی انقلاب اسلامی ایران «تعطیل»",
                 "is_holiday": true
-            },
-            {
-                "description": "حمله به سفارت روسیه و قتل گریبایدوف سفیر روسیه تزاری در ایران [ 11 February ]",
-                "is_holiday": false
             }
         ],
         "is_holiday": true
     },
     {
-        "date": "1405-11-25",
+        "date": "1405-11-28",
         "events": [
             {
-                "description": "جشن ولنتاین [ 14 February ]",
+                "description": "وفات حضرت خدیجه (س)",
                 "is_holiday": false
             }
         ],
@@ -1873,17 +2065,13 @@
         "date": "1405-11-29",
         "events": [
             {
-                "description": "جشن سپندارمذگان و روز عشق",
-                "is_holiday": false
-            },
-            {
-                "description": "فاجعه انفجار قطار نیشابور [1382 خورشیدی]",
+                "description": "قیام مردم تبریز - روز اقتصاد مقاومتی و کارآفرینی",
                 "is_holiday": false
             }
         ],
         "is_holiday": false
     },
-    {
+ {
         "date": "1405-12-04",
         "events": [
             {
